@@ -11,6 +11,7 @@
 
 ## Working Mode
 
+* **Start each session by reading `themes/theme-01/mechanism-1.1/context.md`** before working on section 1.1 — it holds the full analytic memory (decisions, rejections, accepted phrasing, theoretical guidance) for that section. (Claude Code also loads it automatically via a SessionStart hook; this instruction ensures other tools, e.g. Codex, do the same.)
 * This is academic research and writing, not software. No code, tests, builds, or scaffolding. The deliverables are arguments and prose, not programs.
 * **Default to thinking, not writing.** Do not create or edit repo files unless explicitly told to ("write it", "save", "update X", "draft it into the file"). Otherwise respond in chat and leave the files untouched.
 * The terseness rules above apply to discussion too, not only to finished text — short, no preamble, deliverable first, even when just thinking out loud.
