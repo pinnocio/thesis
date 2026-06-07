@@ -9,6 +9,14 @@
 * No long preambles, boilerplate language, verbose explanations, and extraneous fluff. Keep answers short unless requested otherwise.
 * Present the main deliverable first.
 
+## Working Mode
+
+* This is academic research and writing, not software. No code, tests, builds, or scaffolding. The deliverables are arguments and prose, not programs.
+* **Default to thinking, not writing.** Do not create or edit repo files unless explicitly told to ("write it", "save", "update X", "draft it into the file"). Otherwise respond in chat and leave the files untouched.
+* The terseness rules above apply to discussion too, not only to finished text — short, no preamble, deliverable first, even when just thinking out loud.
+* **Use the tools chat lacks, but reading ≠ writing.** Pull context from the repo, search the web and academic literature for sources and citations, read the corpus. Bring evidence in; do not commit changes out.
+* When a discussion reaches something worth keeping — a settled decision, a finished passage — offer to save it to the right file. Do not save unprompted.
+
 ## Generated Text (Writing, Editing, etc.) Rules
 
 * Avoid generic academic tone or writing style, filler, formulaic transitions, and rhetorical padding.
@@ -62,6 +70,15 @@ MA thesis in sociology. The research examines how different nationalism types mo
 * "Positive moment" framing for the Aila Hassan instance or Gaza-as-human-beings instance — both are reframed as critique/indictment.
 * "Three deepening levels" or hierarchy across zones.
 * Separate subsections per mechanism type — sections are comparative by design.
+
+### Data Files (`/data`)
+
+* **critical_updated.xlsx** — Primary data file for the Critical type; main structured mapping source for the Critical type in 1.1.1.
+* **פרט-כלל-ציטוטים-ביקורתי.csv** — Selected Critical quotes; main quote bank for the Critical section.
+* **פרט-כלל-ציטוטים-אולטרה-לאומי.csv** — Selected Ultra-nationalist quotes; main structured mapping source for the Ultra-nationalist type in 1.1.1.
+* **data_filled2.csv** — Broader coded corpus; background and cross-checking source.
+* **הצעת מחקר.md** — Research Proposal / Theoretical Framework; theoretical and methodological background. Main source for the theoretical vocabulary and research framing.
+* **מענה למחשבות.md** — Detailed response document from a previous supervisory conversation, covering analytic decisions across all themes and types. Used at the start to establish the intellectual context and key distinctions.
 
 ### Repo Structure
 
