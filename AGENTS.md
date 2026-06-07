@@ -11,12 +11,20 @@
 
 ## Working Mode
 
-* **Start each session by reading `themes/theme-01/mechanism-1.1/context.md`** before working on section 1.1 — it holds the full analytic memory (decisions, rejections, accepted phrasing, theoretical guidance) for that section. (Claude Code also loads it automatically via a SessionStart hook; this instruction ensures other tools, e.g. Codex, do the same.)
+* **Start each session by reading `themes/theme-01/mechanism-1.1/context.md`** before working on section 1.1 — it holds the full analytic memory (decisions, rejections, accepted phrasing, theoretical guidance) for that section. (Claude Code loads it automatically via a SessionStart hook. Codex and other tools must read it explicitly before section 1.1 work.)
 * This is academic research and writing, not software. No code, tests, builds, or scaffolding. The deliverables are arguments and prose, not programs.
 * **Default to thinking, not writing.** Do not create or edit repo files unless explicitly told to ("write it", "save", "update X", "draft it into the file"). Otherwise respond in chat and leave the files untouched.
 * The terseness rules above apply to discussion too, not only to finished text — short, no preamble, deliverable first, even when just thinking out loud.
 * **Use the tools chat lacks, but reading ≠ writing.** Pull context from the repo, search the web and academic literature for sources and citations, read the corpus. Bring evidence in; do not commit changes out.
 * When a discussion reaches something worth keeping — a settled decision, a finished passage — offer to save it to the right file. Do not save unprompted.
+
+## Codex-Specific Instructions
+
+* Codex should treat `AGENTS.md` as binding project policy.
+* Before any work on section 1.1, Codex must explicitly read `themes/theme-01/mechanism-1.1/context.md`.
+* Codex does not have the Claude SessionStart hook, so the context read must be manual when the task touches section 1.1.
+* Default mode remains discussion/analysis in chat. Do not edit files unless the user explicitly asks to save, update, write, or draft into a file.
+* When using terminal tools, prefer them for reading, searching, and cross-checking sources, not for software-style build/test workflows.
 
 ## Generated Text (Writing, Editing, etc.) Rules
 
