@@ -463,7 +463,8 @@ The user strongly preferred:
 * Do not overuse "פרט–כלל" in the body. It can remain in the section title, but body text should use the more precise language where possible.  
 * Do not overuse "הצבה" or "מוצב מול" mechanically. It is allowed because op-eds use rhetorical operations, but it should not replace the specific action: ranking, silencing, categorizing, particularizing, transferring responsibility, exposing blindness, etc.  
 * Preserve elegant phrasing when it works. The user specifically liked language such as:  
-  **"מערך שני נבנה סביב החיילים, אך כאן מיקומם משתנה בין מופעים שונים. לעיתים החיילים מוצבים מול הממשלה כמי שנשלחים, מסוכנים או מוקרבים בשמה."**
+  **"מערך שני נבנה סביב החיילים, אך כאן מיקומם משתנה בי
+ן מופעים שונים. לעיתים החיילים מוצבים מול הממשלה כמי שנשלחים, מסוכנים או מוקרבים בשמה."**
 
 The preferred writing mode is:
 
@@ -508,14 +509,14 @@ The comparison between types in 1.1.2 will operate at the level of shared interp
 
 ## Files used in this work
 
-**`critical_updated.xlsx`** — The primary data file for the critical type. Three sheets: hostages (חטופים), soldiers (חיילים), Palestinians and innocent civilians (פלסטינים וחפים מפשע). Each row is a specific instance from a specific article, with columns for: the article title, the moral reference object, the relation in the instance, the named actor, the collective being tested, the moral test formulation, a quote, and in some cases the full article text. This was the empirical foundation for all three zones of 1.1.1.
+**`הצעת מחקר.md`** — Research Proposal / Theoretical Framework. Theoretical and methodological background. Main source for the theoretical vocabulary and research framing: Feinstein's five-type typology and its six dimensions, Lamont's symbolic boundaries, Shafir and Peled's citizenship discourses, Rozin's moralization, Clifford's moral conviction. Also confirms the correct methodology: reflexive thematic analysis and grounded theory (not qualitative content analysis, which is outdated).
 
-**`פרט-כלל-ציטוטים-ביקורתי.csv`** — Selected quotes from the critical corpus, organized by article. Columns include: title, type, newspaper, importance rating (!, !!, !!!), notes, and two quote columns (נקודתי — specific, and כללי — general). Used to identify the strongest quotes for the block-quote structure and to check which articles were marked relevant to the individual–collective theme.
+**`מענה למחשבות.md`** — Supervisory Response Document. A detailed response from a previous supervisory conversation, covering analytic decisions across all themes and types. Used to establish intellectual context and key distinctions — particularly the first formulation of the critical/ultra-nationalist convergence, the emotions mapping, and cautionary notes about what to develop vs. avoid.
 
-**`פרט-כלל-ציטוטים-אולטרה-לאומי.csv`** — Same structure as the above, for the ultra-nationalist type. Read at the start but not actively used in drafting, since the decision was made to complete the critical type first. Will be the primary source for the next section.
+**`critical_spreadsheet.xlsx`** — Primary Data File — Critical Type. Main structured mapping source for the Critical type in 1.1.1. Three sheets: hostages (חטופים), soldiers (חיילים), Palestinians and innocent civilians (פלסטינים וחפים מפשע). Each row is a specific instance from a specific article, with columns for: article title, moral reference object, the relation in the instance, named actor, collective being tested, moral test formulation, quote, and in some cases full article text.
 
-**`data_filled2.csv`** — The full coded corpus, all 101 articles across all five types. Columns: title, type(s), newspaper, language, values (ערכים), emotions (רגשות), boundaries (גבולות), conviction, hierarchy (היררכיה), thesis (תזה). Used to verify the theoretical grounding.
+**`פרט-כלל-ציטוטים-ביקורתי.csv`** — Selected Critical Quotes. Main quote bank for the Critical section. Columns: title, type, newspaper, importance rating (!, !!, !!!), notes, and two quote columns (נקודתי — specific, כללי — general). Used to identify the strongest quotes for block-quote structure and to verify which articles were marked relevant to the individual–collective theme.
 
-**`הצעת_מחקר.md`** — The research proposal. Used to anchor the theoretical frameworks: Feinstein's five-type typology and its six dimensions, Lamont's symbolic boundaries, Shafir and Peled's citizenship discourses, Rozin's moralization, Clifford's moral conviction. Also confirmed the correct methodology: reflexive thematic analysis and grounded theory.
+**`פרט-כלל-ציטוטים-אולטרה-לאומי.csv`** — Selected Ultra-nationalist Quotes. Main structured mapping source for the Ultra-nationalist type in 1.1.1. Same structure as the Critical quotes file. Primary source for the next section (1.1.1 ultra-nationalist).
 
-**`מענה_למחשבות.md`** — A detailed response document from a previous supervisory conversation, covering analytic decisions across all themes and types. Used to establish the intellectual context and key distinctions — particularly the first formulation of the critical/ultra-nationalist convergence, the emotions mapping, and the cautionary notes about what to develop vs. avoid.
+**`data_filled2.csv`** — Broader Coded Dataset. Full coded corpus, all 101 articles across all five types. Columns: title, type(s), newspaper, language, values (ערכים), emotions (רגשות), boundaries (גבולות), conviction, hierarchy (היררכיה), thesis (תזה). Background and cross-checking source: used to verify theoretical grounding and confirm that coding is consistent with analytic claims.
