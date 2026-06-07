@@ -71,6 +71,15 @@ MA thesis in sociology. The research examines how different nationalism types mo
 * "Three deepening levels" or hierarchy across zones.
 * Separate subsections per mechanism type — sections are comparative by design.
 
+### Data Files (`/data`)
+
+* **critical_updated.xlsx** — Primary data file for the Critical type; main structured mapping source for the Critical type in 1.1.1.
+* **פרט-כלל-ציטוטים-ביקורתי.csv** — Selected Critical quotes; main quote bank for the Critical section.
+* **פרט-כלל-ציטוטים-אולטרה-לאומי.csv** — Selected Ultra-nationalist quotes; main structured mapping source for the Ultra-nationalist type in 1.1.1.
+* **data_filled2.csv** — Broader coded corpus; background and cross-checking source.
+* **הצעת מחקר.md** — Research Proposal / Theoretical Framework; theoretical and methodological background. Main source for the theoretical vocabulary and research framing.
+* **מענה למחשבות.md** — Detailed response document from a previous supervisory conversation, covering analytic decisions across all themes and types. Used at the start to establish the intellectual context and key distinctions.
+
 ### Repo Structure
 
 ```
