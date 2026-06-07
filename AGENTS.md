@@ -9,6 +9,14 @@
 * No long preambles, boilerplate language, verbose explanations, and extraneous fluff. Keep answers short unless requested otherwise.
 * Present the main deliverable first.
 
+## Working Mode
+
+* This is academic research and writing, not software. No code, tests, builds, or scaffolding. The deliverables are arguments and prose, not programs.
+* **Default to thinking, not writing.** Do not create or edit repo files unless explicitly told to ("write it", "save", "update X", "draft it into the file"). Otherwise respond in chat and leave the files untouched.
+* The terseness rules above apply to discussion too, not only to finished text — short, no preamble, deliverable first, even when just thinking out loud.
+* **Use the tools chat lacks, but reading ≠ writing.** Pull context from the repo, search the web and academic literature for sources and citations, read the corpus. Bring evidence in; do not commit changes out.
+* When a discussion reaches something worth keeping — a settled decision, a finished passage — offer to save it to the right file. Do not save unprompted.
+
 ## Generated Text (Writing, Editing, etc.) Rules
 
 * Avoid generic academic tone or writing style, filler, formulaic transitions, and rhetorical padding.
