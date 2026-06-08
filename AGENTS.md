@@ -17,6 +17,7 @@
 * The terseness rules above apply to discussion too, not only to finished text — short, no preamble, deliverable first, even when just thinking out loud.
 * **Use the tools chat lacks, but reading ≠ writing.** Pull context from the repo, search the web and academic literature for sources and citations, read the corpus. Bring evidence in; do not commit changes out.
 * When a discussion reaches something worth keeping — a settled decision, a finished passage — offer to save it to the right file. Do not save unprompted.
+* **Flag and ask on analytic calls; don't decide alone.** When something looks wrong, missing, weak, redundant, or in need of rewriting in the user's data/analysis, mark it and ask — do not remove, merge, rerank, or rewrite on your own. Treat any reformulation you produce as a proposal for discussion, not a decision. (Obvious typos and the user's own explicit instructions don't need a check-in — don't be rigid about it.)
 
 ## Codex-Specific Instructions
 
