@@ -83,6 +83,7 @@ MA thesis in sociology. The research examines how different nationalism types mo
 
 ### Data Files (`/data`)
 
+* **ultra_nationalist_111_spreadsheet.xlsx** - Primary data file for the Ultra-Nationalist type; main structured mapping source for the Ultra-Nationalist type in 1.1.1.
 * **critical_updated.xlsx** — Primary data file for the Critical type; main structured mapping source for the Critical type in 1.1.1.
 * **פרט-כלל-ציטוטים-ביקורתי.csv** — Selected Critical quotes; main quote bank for the Critical section.
 * **פרט-כלל-ציטוטים-אולטרה-לאומי.csv** — Selected Ultra-nationalist quotes; main structured mapping source for the Ultra-nationalist type in 1.1.1.
