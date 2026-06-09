@@ -104,7 +104,7 @@ The referent may be:
 * hostages;
 * soldiers;
 * fallen soldiers;
-* families of hostages;
+* families of hostages, when the article makes them the human group through whom the collective is judged; in other cases they function mainly as voices, witnesses, or mediators of the moral demand;
 * Palestinian women;
 * Palestinian children;
 * children in Gaza;
@@ -127,6 +127,7 @@ Important cautions:
 * Security, deterrence, victory, honor, blood, sacrifice, existence, or survival are not moral referents as abstract values. They can appear in the relation or in the moral test.
 * Soldiers are not always moral referents; sometimes they are agents of the collective.
 * Palestinians, Gazans, civilians, children, prisoners, and detainees can function as moral referents, but each case must be checked in context.
+* Palestinian prisoners/detainees can function as moral referents mainly in Critical-type instances; in Ultra-nationalist instances they usually appear as the price of the deal or as a source of future threat, not as moral referents.
 
 ### 4.3 “קיום המדינה”
 
@@ -373,7 +374,7 @@ The Ultra-nationalist type also judges the collective through its relation to mo
 
 The central question is not whether the collective abandons vulnerable individuals. It is whether the tested collective protects the threatened national collective from a deal that the articles present as producing future death, future hostages, weakened deterrence, released Palestinian prisoners/militants, Hamas survival, or renewed massacre.
 
-This is not a generic security calculation. It is a moral hierarchy in which the threatened Israeli-Jewish collective, future victims, soldiers, fallen soldiers, deterrence, sacrifice, and national continuity are placed above immediate rescue through a deal represented as dangerous.
+The articles construct a moral hierarchy in which the threatened Israeli-Jewish collective, future victims, soldiers, fallen soldiers, deterrence, sacrifice, and national continuity are placed above immediate rescue through a deal represented as dangerous. This is not presented as a generic security calculation, but as a moral test of the collective.
 
 ### 8.2 Unified axis: Hostages and future victims
 
@@ -387,6 +388,7 @@ In this axis:
 
 * The hostages are not erased as moral referents.
 * They generate immediate moral pressure, often through pain, family pressure, media focus, the duty of rescue, or a campaign of compassion.
+* The campaign of compassion is not a moral referent and not an independent axis. It is a mechanism that mediates immediate pressure around the hostages, especially in instances where the public, national camp, or discourse is tested by its ability to foreground future victims.
 * The future victims are not merely an outcome of the deal. They are the moral referent through whom the threatened national collective is made present.
 * The price Israel “pays” is not the Israeli hostages. It is mainly the release of Palestinian prisoners/militants and the future consequences attributed to that release: murder, future abductions, harm to deterrence, Hamas strengthening, renewed fighting, or another massacre.
 
@@ -429,6 +431,8 @@ Use this table as the backbone for writing, not the detailed mapping table.
 
 The detailed unified table of **חטופים וקורבנות עתידיים** is useful as a coding/mapping layer only. Do not write the subsection as 11 mini-readings.
 
+In the corrected detailed table, the test column should be framed as **“the moral failure attributed to the tested collective”** — Hebrew working phrasing: **הכשל המוסרי המיוחס לכלל הנבחן** — not as the researcher’s direct verdict.
+
 Required corrections to keep in the table and in writing:
 
 * Use analytic attribution: “המאמר מייחס...”, “המאמר מציג...”, “במונחי המאמר...”.
@@ -448,7 +452,7 @@ Accepted formulation:
 
 > החיילים והנופלים אינם רק מי שהכלל חייב להגן עליהם או לכבד אותם; הם נעשים הוכחה מוסרית לכך שהמלחמה חייבת להימשך עד ניצחון.
 
-The tested collective is judged by its loyalty to military sacrifice, blood, heroism, and the meaning of death: whether it continues toward victory, or whether it wastes, desecrates, empties, or betrays the sacrifice through a deal, surrender, ceasefire, or moral code that prioritizes enemy lives over fighters’ lives.
+The articles judge the tested collective by its loyalty to military sacrifice, blood, heroism, and the meaning of death: whether it continues toward victory, or whether it wastes, desecrates, empties, or betrays the sacrifice through a deal, surrender, ceasefire, or moral code that prioritizes enemy lives over fighters’ lives.
 
 Distinctive Ultra-nationalist vocabulary in this axis:
 
